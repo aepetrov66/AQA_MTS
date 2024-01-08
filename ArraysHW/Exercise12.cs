@@ -2,7 +2,7 @@
 {
     static class TwelfthExercise
     {
-        static void Main(string[] args)
+        static void Main134(string[] args)
         {
 
             int sizeI;

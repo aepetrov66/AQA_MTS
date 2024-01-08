@@ -2,7 +2,7 @@
 {
     static class FirstExercise
     {
-        static void MainMain(string[] args)
+        static void Main(string[] args)
         {
             int[] array = { 7, 15, 48, 29, 44, 66, 92, 68, 3, 4, 17, 52, 11, 14, 15, 22, 104, 7 };
 
@@ -17,6 +17,7 @@
                 {
                     Console.WriteLine($"{num} is included in array with index {i}.");
                     flag = true;
+                    break;
                 }
             }
 
