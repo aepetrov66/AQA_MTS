@@ -1,7 +1,7 @@
 ﻿using OpenQA.Selenium;
-using Locators.Core;
+using SauceDemo.Core;
 
-namespace Locators.Tests;
+namespace SauceDemo.Tests;
 
 public class BaseTest
 {

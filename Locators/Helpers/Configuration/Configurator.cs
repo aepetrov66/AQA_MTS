@@ -1,7 +1,8 @@
 using System.Reflection;
 using Microsoft.Extensions.Configuration;
+using OpenQA.Selenium.Chrome;
 
-namespace NUnitTest.Helpers.Configuration
+namespace SauceDemo.Helpers.Configuration
 {
     public static class Configurator
     {

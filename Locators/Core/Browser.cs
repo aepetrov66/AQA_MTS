@@ -1,7 +1,7 @@
 ﻿using OpenQA.Selenium;
-using Locators.Utilites.Configuration;
+using SauceDemo.Helpers.Configuration;
 
-namespace Locators.Core
+namespace SauceDemo.Core
 {
     public class Browser
     {
